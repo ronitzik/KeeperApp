@@ -4,7 +4,7 @@ This project was created as part of my learning journey while taking the course 
 
 ## Project Structure
 
-### public/
+### public
 index.html: The main HTML file that serves as the entry point for the React application.
 
 styles.css: The main CSS file that contains styles for the application.
