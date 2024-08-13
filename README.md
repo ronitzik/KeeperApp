@@ -6,12 +6,18 @@ This project was created as part of my learning journey while taking the course 
 
 ### public/
 index.html: The main HTML file that serves as the entry point for the React application.
+
 styles.css: The main CSS file that contains styles for the application.
 
 ### src
 App.jsx: The main component that renders the entire application.
+
 CreateArea.jsx: Component for creating new notes.
+
 Footer.jsx: Footer component.
+
 Header.jsx: Header component.
+
 Note.jsx: Component for displaying individual notes.
+
 index.js: The main entry point for the React application.
